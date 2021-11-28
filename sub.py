@@ -45,9 +45,9 @@ def submit(s: requests.Session):
         'shentishifouyoubushizhengzhuan': "否",
         'shifouyoufare': "否",
         'qitaxinxi': "",
-        'tiwen': "36.2",
-        'tiwen1': "36.2",
-        'tiwen2': "36.2",
+        'tiwen': "36.5",
+        'tiwen1': "36.5",
+        'tiwen2': "36.5",
         'riqi': datetime.now(tz=pytz.timezone("Asia/Shanghai")).strftime("%Y-%m-%d"),
         'id': sauid}
 
