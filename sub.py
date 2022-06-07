@@ -36,7 +36,7 @@ def submit(s: requests.Session):
         'shoujihao': telnum,
         'danweiyuanxi': xueyuan,
         'dangqiansuozaishengfen': "辽宁省",
-        'dangqiansuozaichengshi': "沈阳市",
+        'dangqiansuozaichengshi': "大连市",
         'shifouyuhubeiwuhanrenyuanmiqie': "否",
         'shifoujiankangqingkuang': "是", 
         'shifoujiechuguohubeihuoqitayou': "否",
